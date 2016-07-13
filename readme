@@ -1,0 +1,15 @@
+GoldenDict 是一款俄国人编写的跨平台的开放源码的免费词典软件、
+
+格式与StarDict（星际译王）类似，个人感觉强于StarDict。它使用 WebKit 作为渲染核心，格式化、颜色、图像、链接等支持一应俱全；支持多种词典文件格式，包括StarDict 的 .ifo/.dict/.idx/.syn 文件、Babylon 的 .BGL 文件、
+Dictd 的 .index/.dict(.dz) 文件、ABBYY Lingvo 的 .dsl/.lsa/.dat 文件；；可查询 WikipediaWiktionary 等基于 
+
+http://ftp.vim.org/ftp/pub/ftp/os/FreeBSD/distfiles/stardict/stardict-merrianwebster-2.4.2.tar.bz2 
+
+stardict-oxford_advanced_learner_dictionary-2.4.2 
+http://yeelou.com/huzheng/stardict-dic/dict.org/stardict-oald-2.4.2.tar.bz2 
+
+stardict-eng_irregular-2.4.2 
+http://yeelou.com/huzheng/stardict-dic/dict.org/stardict-eng_irregular-2.4.2.tar.bz2 
+
+stardict-xdict-ec-gb-2.4.2 
+http://ftp.vim.org/ftp/pub/ftp/os/FreeBSD/distfiles/stardict/stardict-xdict-ec-
